@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class StaticObject : Object
 {
+    //Test Test 123
+
     // Start is called before the first frame update
     public override void Start()
     {
