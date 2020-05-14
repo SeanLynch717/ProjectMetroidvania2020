@@ -15,4 +15,9 @@ public class Object : MonoBehaviour
     {
         
     }
+
+    public virtual void Move()
+    {
+
+    }
 }

@@ -15,4 +15,9 @@ public class Player : Object
     {
         
     }
+
+    public override void Move()
+    {
+
+    }
 }
