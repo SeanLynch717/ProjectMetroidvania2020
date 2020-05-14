@@ -17,4 +17,9 @@ public class StaticObject : Object
     {
         
     }
+
+    public override void Move()
+    {
+        return;
+    }
 }
